@@ -17,5 +17,5 @@ wget https://raw.githubusercontent.com/vpnlegasi/license-sc/main/license-365d.sh
 
 #renew lifetime
 ```html
-wget https://raw.githubusercontent.com/vpnlegasi/license-sc/main/license-lifetime.sh && chmod +x license-lifetime.sh && screen -S icense-lifetime ./icense-lifetime.sh && rm -f /root/icense-lifetime.sh && license-sc
+wget https://raw.githubusercontent.com/vpnlegasi/license-sc/main/license-lifetime.sh && chmod +x license-lifetime.sh && screen -S license-lifetime ./license-lifetime.sh && rm -f /root/license-lifetime.sh && license-sc
 ```
